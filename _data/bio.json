@@ -1,52 +1,36 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Robi Lono",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://RobiLono.github.io/images/molly.png",
+    "email": "robilono@hawaii.edu",
+    "phone": "",
+    "website": "https://RobiLono.github.io",
+    "summary": "I am studying for my Bachelors in Management Information Systems at the Shidler College of Business. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "41-201 Pa'upahapaha Pl",
+      "postalCode": "96795",
+      "city": "Waimanalo",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "RobiLono",
+        "url": "http://github.com/RobiLono"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computer Network",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Analyst",
       "keywords": [
       ]
     },
