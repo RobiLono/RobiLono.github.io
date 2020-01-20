@@ -1,5 +1,5 @@
 {
-  "basics":{
+  "basics": {
     "name": "Robi Lono",
     "label": "Student",
     "picture": "https://RobiLono.github.io/images/Robi.jpg",
@@ -22,11 +22,10 @@
       }
     ]
   },
-  "interests":
+  "interests": [
     {
       "name": "Computer Network",
       "keywords": [
-
       ]
     },
     {
@@ -37,12 +36,12 @@
     {
       "name": "artificial intelligence",
       "keywords": [
-      ]
-    },
+       ]
+     {
       "name": "Cybersecurity",
       "keywords': [
-      ]
-    }
+       ]
+     }
   ],
   "skills": [
     {
