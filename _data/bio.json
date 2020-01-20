@@ -1,5 +1,5 @@
-{
-  "basics": {
+
+  "basics":{
     "name": "Robi Lono",
     "label": "Student",
     "picture": "https://RobiLono.github.io/images/Robi.jpg",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "interests": [
+  "interests":
     {
       "name": "Computer Network",
       "keywords": [
@@ -39,7 +39,6 @@
       "keywords": [
       ]
     },
-    {
       "name": "Cybersecurity",
       "keywords': [
       ]
@@ -48,20 +47,21 @@
   "skills": [
     {
       "name": "Microsoft Word",
-      "level": "",
+      "level": "3",
       "keywords": [
       ]
     },
     {
       "name": "Microsoft Word",
-      "level": "",
+      "level": "3",
       "keywords": [
       ]
     }
     {
       "name": "Microsoft Powerpoint",
-      "level": "",
+      "level": "3",
       "keywords": [
+    }
   ],
   "education": [
     {
