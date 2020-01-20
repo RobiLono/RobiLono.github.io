@@ -46,14 +46,21 @@
   ],
   "skills": [
     {
-      "name": "Microsoft Word",
-      "level": "4",
+      "name": "Toolsets/OS",
+      "level": "",
       "keywords": [
+        "MacOS"
       ]
     },
     {
       "name": "Microsoft Excel",
-      "level": "4",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
       "keywords": [
       ]
     }
